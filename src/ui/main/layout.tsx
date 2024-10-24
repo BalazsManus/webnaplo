@@ -2,6 +2,7 @@ import { useRef } from "react";
 import NavBar from "./components/navbar";
 import MainIndex from "./pages";
 import PrivacyPolicy from "./pages/privacy";
+import PrivacyPolicyEN from "./pages/privacyEN";
 // import CountdownModal from "./components/countdown";
 
 const MainLayout = ({ currentPage }: { currentPage: string }) => {
